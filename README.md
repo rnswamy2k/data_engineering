@@ -1,2 +1,2 @@
 # data_engineering
-Tools and technologies around data engineering
+Repo to build and test data engineering capabilities and solutions.
